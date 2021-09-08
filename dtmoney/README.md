@@ -1,46 +1,87 @@
-# Getting Started with Create React App
+<p>&nbsp;&nbsp;</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+	Dt Money
+</h1>
 
-## Available Scripts
+<p>&nbsp;&nbsp;</p>
 
-In the project directory, you can run:
 
-### `yarn start`
+<h1 align="center">
+	<img src="https://user-images.githubusercontent.com/43690080/132565726-14b5fa40-7389-4a22-9ec1-32f0c979da65.gif" />
+</h1>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p>&nbsp;&nbsp;</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+<h4 align="center">
+	🚀 dt money
+</h4>
+<h4 align="center">
+	Aplicativo desenvolvido durante os estudos de Reactjs no curso Ignite
+</h4>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>&nbsp;&nbsp;</p>
 
-### `yarn build`
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ArlanBiati/reactjs-ignite">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <a href="https://www.linkedin.com/in/arlan-biati/">
+    <img alt="Made by ArlanBiati" src="https://img.shields.io/badge/made%20by-ArlanBiati-%2304D361">
+  </a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  <a href="https://github.com/ArlanBiati/Omnistack-11/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ArlanBiati/reactjs-ignite">
+  </a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+<p>
 
-### `yarn eject`
+<p>&nbsp;&nbsp;</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<!-- <p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<p>&nbsp;&nbsp;</p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 💻 Projeto
 
-## Learn More
+Em comemoração ao Dia Mundial do Meio-Ambiente, a semana Next Level Week trouxe a ideia de criarmos um projeto baseado nesta data importante.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+O projeto Ecoleta é um martkplace de coleta seletiva, onde podemos encontrar pontos de coleta e também cadastrar novos pontos, podendo ajudar as pessoas de forma conciente onde devem ir fazer o descarte correto. -->
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p>&nbsp;&nbsp;</p>
+
+
+---
+
+<p>&nbsp;&nbsp;</p>
+
+## 🚀 Tecnologias
+
+O projeto foi desenvolvido usando as seguintes tecnologias:
+
+- [Reactjs](https://pt-br.reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+
+<p>&nbsp;&nbsp;</p>
+
+---
+
+<p>&nbsp;&nbsp;</p>
+
+## 📝 Desenvolvido por
+
+Arlan Gustavo Biati
+
+❯ [@ArlanBiati](https://www.linkedin.com/in/arlan-biati-2b3512115/) <img src="https://user-images.githubusercontent.com/43690080/84064413-f0e6c480-a998-11ea-8d87-fa7e45653884.png">
+
+❯ arlangustavo@hotmail.com  <img src="https://user-images.githubusercontent.com/43690080/84064502-1542a100-a999-11ea-8085-b751f54ea57a.png">
+
+❯ [ArlanBiati](https://github.com/ArlanBiati/) <img src="https://user-images.githubusercontent.com/43690080/84064412-f04e2e00-a998-11ea-859c-50c4c05df79b.png">
+
+Distribuído sob a licença MIT

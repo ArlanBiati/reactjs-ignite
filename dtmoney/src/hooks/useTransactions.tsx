@@ -39,11 +39,11 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
       createdAt: new Date()
     })
 
-    const { transactio } = response.data;
+    const { transaction } = response.data;
 
     setTransactions([
       ...transactions,
-      transactio
+      transaction
     ]);
   }
 
